@@ -40,4 +40,5 @@ def locate_card(cards, query):
     return -1
 
 
-evaluate_test_cases(locate_card, tests)
+if __name__ == '__main__':
+    evaluate_test_cases(locate_card, tests)
