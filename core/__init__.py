@@ -1,5 +1,5 @@
 """
-Utilities and helper functions for the course "Data Structures and Algorithms in Python". 
+Utilities and helper functions for the course "Data Structures and Algorithms in Python".
 Visit http://pythondsa.com to learn more.
 """
 
